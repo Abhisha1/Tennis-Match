@@ -1,2 +1,2 @@
 # Tennis-Match
-simple tennis match
+Simple code used to describe a slighlty simplified tennis match.
